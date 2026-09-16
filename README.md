@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Matteo 👋
 
-<!--
-**MatteoR02/MatteoR02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineering student at **Politecnico di Torino** interested in building reliable, useful software across the stack.
 
-Here are some ideas to get you started:
+## What I'm working with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Rust** — real-time and systems-oriented applications
+- **Go** — cloud-native and Kubernetes-based platforms
+- **Java** — object-oriented application development
+- **TypeScript** — web backends, APIs, and full-stack projects
+- **Docker, WebSockets, TypeORM, Express, and Kubernetes**
+
+## Featured projects
+
+- 🦀 [**Ruggine**](https://github.com/MatteoR02/Ruggine) — A chat application built with Rust.
+- ☸️ [**CrownLabs**](https://github.com/MatteoR02/CrownLabs) — Kubernetes-based remote laboratories.
+- 🏙️ [**Participium backend**](https://github.com/MatteoR02/participium-backend) — A citizen participation platform for urban issue reporting, notifications, statistics, and Telegram integration.
+- 🖥️ [**Participium frontend**](https://github.com/MatteoR02/participium-frontend) — Web client for the Participium project.
+- 🛒 [**MyShop**](https://github.com/MatteoR02/MyShop) — An e-commerce application developed in Java.
+
+## Currently learning
+
+I'm expanding my experience with distributed systems, cloud-native development, backend architecture, and Rust.
+
+## Connect
+
+- GitHub: [@MatteoR02](https://github.com/MatteoR02)
